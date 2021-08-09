@@ -42,4 +42,4 @@
 [instagram]: https://www.instagram.com/rsshonjoydas/
 [linkedin]: https://www.linkedin.com/in/rsshonjoydas/
 [github]: https://www.github.com/rsshonjoydas
-[gmail]: rsshonjoydas@gmail.com
+[gmail]: mailto:rsshonjoydas@gmail.com
