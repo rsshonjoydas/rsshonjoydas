@@ -40,6 +40,8 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][github]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />][github]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][github]
 [<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png"/>][github]
 
